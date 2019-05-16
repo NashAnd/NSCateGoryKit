@@ -1,0 +1,6 @@
+framework module Pods_NSCateGoryKit_Example {
+  umbrella header "Pods-NSCateGoryKit_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

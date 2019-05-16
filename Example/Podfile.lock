@@ -1,0 +1,27 @@
+PODS:
+  - FBSnapshotTestCase (2.1.4):
+    - FBSnapshotTestCase/SwiftSupport (= 2.1.4)
+  - FBSnapshotTestCase/Core (2.1.4)
+  - FBSnapshotTestCase/SwiftSupport (2.1.4):
+    - FBSnapshotTestCase/Core
+  - NSCateGoryKit (0.1.0)
+
+DEPENDENCIES:
+  - FBSnapshotTestCase
+  - NSCateGoryKit (from `../`)
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - FBSnapshotTestCase
+
+EXTERNAL SOURCES:
+  NSCateGoryKit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  FBSnapshotTestCase: 094f9f314decbabe373b87cc339bea235a63e07a
+  NSCateGoryKit: 6503d0ae152fdc92f4ff77b8445577fd34a10cbc
+
+PODFILE CHECKSUM: 8e43d3e125fc38d2bb5cd035bb831ffdc461382f
+
+COCOAPODS: 1.5.3

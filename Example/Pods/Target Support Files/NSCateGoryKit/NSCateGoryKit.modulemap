@@ -1,0 +1,6 @@
+framework module NSCateGoryKit {
+  umbrella header "NSCateGoryKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
